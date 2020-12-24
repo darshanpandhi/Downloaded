@@ -10,6 +10,6 @@ It is a JSON objects and can be imported directly to any mongoDB instance by usi
 
 **Credits: https://github.com/saltlab/Minning-App-Stores**
 
-## Tools required
+## Suggested Tools
 1. Studio 3T (mongoDB instance)
 2. IBM SPSS Statistics
