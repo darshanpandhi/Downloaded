@@ -6,3 +6,6 @@ This paper aims to find out what it takes to be popular, at least in the Android
 ## Datset
 
 The Dataset is contained as .zip file within the Data folder.
+It is a JSON objects and can be imported directly to any mongoDB instance by using the following command: "mongorestore --collection insertCollectionNameHere --db inserDBNameHere pathToBsonFile"
+
+**Credits: https://github.com/saltlab/Minning-App-Stores**
